@@ -1,2 +1,0 @@
-# PharmMetrics
-PharmMetrics
